@@ -1,0 +1,22 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinSFleet/Flashcard_Generator.git"
+  },
+  "author": "austin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinSFleet/Flashcard_Generator/issues"
+  },
+  "homepage": "https://github.com/AustinSFleet/Flashcard_Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  }
+}
